@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 17",
+    "image": "https://www.w3schools.com/bootstrap5/img_avatar3.png",
+    "price": 0,
+    "cate_id": 1
+  },
+    {
+    "id": 1,
+    "name": "Iphone 16",
+    "image": "https://www.w3schools.com/bootstrap5/img_avatar3.png",
+    "price": 0
+  },
+    {
+    "id": 1,
+    "name": "Iphone 15",
+    "image": "https://www.w3schools.com/bootstrap5/img_avatar3.png",
+    "price": 0
+  },
+    {
+    "id": 1,
+    "name": "Iphone 14",
+    "image": "https://www.w3schools.com/bootstrap5/img_avatar3.png",
+    "price": 0
+  },
+    {
+    "id": 1,
+    "name": "Iphone 13",
+    "image": "https://www.w3schools.com/bootstrap5/img_avatar3.png",
+    "price": 0
+  },  {
+    "id": 1,
+    "name": "Iphone 12",
+    "image": "https://www.w3schools.com/bootstrap5/img_avatar3.png",
+    "price": 0
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "image": "https://laptopworld.vn/media/product/250_23659_laptop_dell_15_dc15250_dc5i7748w1__6_.jpg",
+    "price": 0,
+    "cate_id": 2
+  },
+    {
+    "id": 3,
+    "name": "Laptop",
+    "image": "https://pcmarket.vn/media/product/10239_340784857_799984757660921_1932046047919300131_n.jpg",
+    "price": 0,
+    "cate_id": 3
+  }
+
+]
